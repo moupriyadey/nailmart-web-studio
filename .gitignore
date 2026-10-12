@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local editor settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local environment/secrets (do not commit credentials)
+.env
+.env.*
+!.env.example
